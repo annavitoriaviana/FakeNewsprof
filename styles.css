@@ -1,0 +1,86 @@
+body {
+    background: url('https://eebf0bb7ab.clvaw-cdnwnd.com/e76a3373eefba3293641bc1f0dfb0656/200005735-2c5d42c5d7/shutterstock_1121670800.jpg?ph=eebf0bb7ab') no-repeat center center fixed;
+    background-size: cover;
+    background-color: #bab2c9;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #ee0b0b;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #e90000;
+  }
+  
+  #nameInput {
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 200px;
+    margin: 10px;
+  }
+  
+  .video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .video-container iframe {
+    width: 50%;
+    margin: 10px;
+  }
+  
+  #content {
+    margin-top: 20px;
+    color: #e2c00000;
+  }
+  
+  /* Restante do código */
+/* Restante do código */
+
+/* Restante do código */
+
+.group-members {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: red; /* Cor do quadrado */
+    display: inline-block; /* Para o quadrado se ajustar ao conteúdo */
+    border-radius: 10px; /* Borda arredondada */
+  }
+  
+  .group-members h3 {
+    color: #ffffff;
+  }
+  
+  .group-members ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .group-members li {
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+  
+  /* Restante do código */
+  
+
