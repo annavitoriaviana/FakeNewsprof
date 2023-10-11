@@ -50,7 +50,7 @@ body {
   
   #content {
     margin-top: 20px;
-    color: #e2c00000;
+    color: #0d18b6b4;
   }
   
   /* Restante do código */
@@ -82,5 +82,21 @@ body {
   }
   
   /* Restante do código */
+
+#nameInput {
+    margin-top: 80px; /* Ajuste a margem superior conforme necessário */
+  }
   
+  /* Restante do código */
+  /* Adicionando borda e cor de fundo para a área "Digite seu nome" */
+#nameInput {
+    margin-top: 10px;
+    padding: 80px;
+    border: 1px solid #f10404; /* Cor da borda */
+    background-color: #ffffff; /* Cor de fundo */
+  }
+  
+  /* Restante do código */
+  
+
 
